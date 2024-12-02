@@ -3,7 +3,7 @@ var greet = function(name, message){
     return message + name
 }
 
-console.log(greet('Ratchanon','Hello '))
+console.log(greet('Samit','Hello '))
 
 // ES 6
 // var arrowGreet = (name, message) => {

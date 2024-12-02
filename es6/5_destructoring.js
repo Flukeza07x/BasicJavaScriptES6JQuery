@@ -10,7 +10,7 @@ console.log(s1, s3);
 
 // Return object
 function createUser(){
-    return {name: 'Samit', age: 30}
+    return {name: 'Fluke', age: 23}
 }
 
 const {name, age} = createUser()
