@@ -16,7 +16,7 @@ function calArea(width, height){
 
 // การเรียกใช้งานฟังก์ชัน
 wakeup();
-sayHello("Ratchaon Decha");
+sayHello("Ratchanon");
 console.log("พื้นที่คือ " + calArea(3, 4) + " ตรม.");
 
 // ฟังก์ชัน Expressions
